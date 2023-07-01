@@ -1,0 +1,69 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "oO4UBcsM77jAIYD3pq2vARhTHJBYzE0ySJjtuyys12c="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Zr8X46b+zo2AUR2aw5iOoOh+UuG9jsa2QdfJv/dqD0s="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "oDNMX+anGhYM7kEQqWjNFFGjAmYxYSRlRuv1mIgytV4="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "Yaz+FduwH3QUo0tHmRr3TlZmlGGIh67hfQMLdFrzMmg="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "aDSto1HHZnW5qd8TrG17AgkFdb6+TqdqZa08favrqW0="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "5Tm0SlhFQHv6GVZJd9JD6ssjd3Y7X/zOMtEeSEPeJzA="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "oJujVYslTwG97jEGaRnpYHazdS1iGzMjb4OLZV2KRRlsrJMsDCQfv0uToVUvWV5wcP+SGhNq2McmJIxLgBu4BA=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 69,
+    "advSecretKey": "uGMoKmDG/JGVbOTS5uztPhXJ3a0KB99X1iSrfWDy48U=",
+    "nextPreKeyId": 1,
+    "firstUnuploadedPreKeyId": 1,
+    "serverHasPreKeys": false,
+    "account": {
+      "details": "CIr/hOgCEL/d/qQGGAI=",
+      "accountSignatureKey": "xfmzO9GtJfoHW76WL095pU2FwWc6qNqt62nCsljl5iM=",
+      "accountSignature": "coBmUOdcFW+r/9VXFEsD7ct2uLmo66p4VKWuvlQwKYJ/9tR5RT6cbyNv0foiIjm485xxkE/KnVo+0DcXSiWaAQ==",
+      "deviceSignature": "25ZIqeqMygwf2qhHehzn53IYO+wcEpgRLNuSdIVoIIvb1AaxrxN1C88DtC9FM+KZFEIcpKlFDNwcL8xSufq6DQ=="
+    },
+    "me": {
+      "id": "62895635221512:13@s.whatsapp.net",
+      "verifiedName": "BamaaBot"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "62895635221512:13@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BcX5szvRrSX6B1u+li9PeaVNhcFnOqjaretpwrJY5eYj"
+        }
+      }
+    ]
+  },
+  "keys": {}
+}
